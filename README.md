@@ -1,0 +1,2 @@
+# Gradient Boosting - Exploitez les arbres de décision pour le Machine Learning
+Vous trouverez dans ce repository l'ensemble des codes utilisés dans le livre [ Gradient Boosting - Exploitez les arbres de décision pour le Machine Learning](https://www.editions-eni.fr/livre/gradient-boosting-exploitez-les-arbres-de-decision-pour-le-machine-learning-xgboost-catboost-lightgbm-9782409034022) pour présenter les méthodes de Gradient Boosting. 
